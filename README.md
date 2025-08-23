@@ -7,7 +7,7 @@ Welcome to the Ecommerce-Website project! This is a full-stack application desig
 ## 🚀 Live Demo
 
 You can view a live version of the website here:
-[Live Website URL](https://www.google.com/search?q=aravindpulluri116+Ecommerce-Website)  
+[Live Website URL](https://ecommerce-website-gamma-brown.vercel.app/)  
 *(Note: Please replace the placeholder with your actual live URL.)*
 
 ---
